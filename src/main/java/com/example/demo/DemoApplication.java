@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 // yokk..   
-// myName
+// myName....
 public class DemoApplication {
 
 	public static void main(String[] args) {
